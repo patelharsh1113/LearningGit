@@ -1,2 +1,2 @@
 # LearningGit
-Testing Connection with my mac 
+This is my Firs't commit for Github. 
